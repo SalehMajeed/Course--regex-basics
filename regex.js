@@ -55,4 +55,12 @@
  *
  * Back References ->
  *      \1 -> same as group of $1.
+ *
+ * Flags ->
+ *      g -> global.
+ *      i -> insensitive.
+ *
+ * test() -> return true or false.
+ * match() -> return array of string.
+ * exec() -> to get the group while using global flag.
  */
