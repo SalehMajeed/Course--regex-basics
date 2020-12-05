@@ -54,5 +54,5 @@
  *      $1 ... -> specific group and can be replace.
  *
  * Back References ->
- *
+ *      \1 -> same as group of $1.
  */
